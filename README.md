@@ -1,6 +1,6 @@
 [![build](https://github.com/astraw/nucleo-h743zi/actions/workflows/cargo.yml/badge.svg)](https://github.com/astraw/nucleo-h743zi/actions/workflows/cargo.yml)
 
-# nucleo-h743zi
+# nucleo-h747cm7
 
 Example programs for the [NUCLEO-H743ZI and
 NUCLEO-H743ZI2](https://www.st.com/en/evaluation-tools/nucleo-h743zi.html)
