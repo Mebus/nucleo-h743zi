@@ -27,7 +27,7 @@ fn main() -> ! {
     let rcc = dp.RCC.constrain();
 
     let pwr = dp.PWR.constrain();
-    let pwrcfg = pwr.freeze();
+    let pwrcfg = pwr.smps().freeze();
 
     // Freeze the configuration of all the clocks in the system and
     // retrieve the Core Clock Distribution and Reset (CCDR) object
