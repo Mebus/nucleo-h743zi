@@ -2,8 +2,7 @@
 
 # nucleo-h747cm7
 
-Example programs for the [NUCLEO-H743ZI and
-NUCLEO-H743ZI2](https://www.st.com/en/evaluation-tools/nucleo-h743zi.html)
+Example programs for the [NUCLEO-H745ZI-Q](https://www.st.com/en/evaluation-tools/nucleo-h745zi-q.html)
 boards.
 
 This uses the [stm32h7xx-hal](https://github.com/stm32-rs/stm32h7xx-hal) crate.
